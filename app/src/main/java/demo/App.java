@@ -13,5 +13,8 @@ public class App {
 
         ArrayTask arrayTask = new ArrayTask();
         arrayTask.arrayCreation();
+
+        ArrayString stringTask = new ArrayString();
+        stringTask.createAndPrintString();
     }
 }
